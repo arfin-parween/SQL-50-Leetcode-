@@ -1,5 +1,5 @@
 # SQL-50-Leetcode
-<a href="https://leetcode.com/studyplan/top-sql-50/" target="blank"><img align="center"  alt="Click Here" height="30" width="40" /></a>
+<a href="https://leetcode.com/studyplan/top-sql-50/" target="blank">Click Here/></a>
 
 # Hey There!
 
