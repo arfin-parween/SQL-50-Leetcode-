@@ -1,7 +1,7 @@
 
-<h2 align="left">SQL-50-Leetcode</h2>
+<h3 align="left">SQL-50-Leetcode</h3>
 <p align="left">
-<a href="https://leetcode.com/studyplan/top-sql-50/" target="blank"><img align="center" src="https://iconspng.com/_next/image?url=https%3A%2F%2Ficonspng.com%2Fimages%2Fclick-here-red-button.jpg&w=1080&q=75" alt="Click Here" height="30" width="40" /></a>
+<a href="https://leetcode.com/studyplan/top-sql-50/" target="blank"><img align="center" src="https://iconspng.com/_next/image?url=https%3A%2F%2Ficonspng.com%2Fimages%2Fclick-here-red-button.jpg&w=1080&q=75" alt="Click Here" height="40" width="150" /></a>
 
 # Hey There!
 
