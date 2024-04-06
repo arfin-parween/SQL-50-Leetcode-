@@ -1,5 +1,4 @@
 # Write your MySQL query statement below
-# Write your MySQL query statement below
 select date_format(trans_date, '%Y-%m') as month,
 country,
 count(id) as trans_count,
