@@ -1,4 +1,8 @@
 # Write your MySQL query statement below
-select tweet_id
-from tweets
-where length(content) >15 
+SELECT tweet_id 
+FROM Tweets
+WHERE length(content)>15
+
+
+# LENGTH() => bytes ......me string lenth deta h 
+# CHAR_LENGTH() => CHAR ......me string lenth deta h 
